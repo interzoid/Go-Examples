@@ -4,18 +4,17 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetCompanyMatchSimkey.go** - generates a similarity key to use to match/locate other similar company names ("IBM" & "International Business Machines", etc.) - visit the API Page: https://www.interzoid.com/services/getcompanymatchadvanced  
   
-
 **GetFullNameMatchSimkey.go** - generates a similarity key to use to match/locate other similar individual names ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
 **GetCurrencyRate.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
 
-**GetEmailInformation.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+**GetEmailInformation.go** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo 
 
-**GetGlobalPhoneInformation.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+**GetGlobalPhoneInformation.go** - Retrieves geographic information, mobile, language and other demographics for a global telephone number - visit the API Page: https://www.interzoid.com/services/getglobalnumberinfo
 
-**GetPagePerformance.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+**GetPagePerformance.go** - Measures page load times or API call performance from 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
 
-**GetCurrencyRate.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+**GetWeatherFromZip.go** - Retrieves temperature and other information about current weather conditions for a zip code - visit the API Page: https://www.interzoid.com/services/getweathercity
 
 
 To register for your free **API Key** (a block of free API credits), visit here: https://www.interzoid.com/register  
