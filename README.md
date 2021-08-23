@@ -1,8 +1,8 @@
 # Go-Examples
 
-These are code examples showing how to call and utilize Interzoid's API using Go. 
+These are code examples showing how to call and utilize Interzoid's various Cloud APIs using Go. 
 
-GetCompanyMatchSimkey.go - generates a similarity key to use to match/locate other similar company names ("IBM" & "International Business Machines", etc.)
+**GetCompanyMatchSimkey.go** - generates a similarity key to use to match/locate other similar company names ("IBM" & "International Business Machines", etc.)
 API Page: https://www.interzoid.com/services/getcompanymatchadvanced
 
 To register for your free API key (a block of free API credits) visit here: https://www.interzoid.com/register
