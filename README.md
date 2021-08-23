@@ -9,6 +9,15 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetCurrencyRate.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
 
+**GetEmailInformation.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+
+**GetGlobalPhoneInformation.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+
+**GetPagePerformance.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+
+**GetCurrencyRate.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+
+
 To register for your free **API Key** (a block of free API credits), visit here: https://www.interzoid.com/register  
   
   
