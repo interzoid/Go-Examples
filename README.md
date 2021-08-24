@@ -23,3 +23,5 @@ To register for your free **API Key** (a block of free API credits), visit here:
   
   
 These APIs can also be called in batch mode retrieving input data and writing results from/to databases such as Postgres, MySQL, MariaDB, Snowflake, AWS Aurora, SQL Server, Access, .CSV files, etc. (native/odbc & local or Cloud). For more info visit here: https://www.interzoid.com/connect
+
+contact support@interzoid.com with any questions or feedback
