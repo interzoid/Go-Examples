@@ -8,6 +8,8 @@ These are code examples showing how to call and utilize Interzoid's various Clou
   
 **GetFullNameMatchSimkey.go** - generates a similarity key to use to match/locate other similar individual names ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
+**GetFullNameMatchSimkey.go** - generates a report from a CSV file showing matching individual names within the file ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
+
 **GetCurrencyRate.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
 
 **GetEmailInformation.go** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo 
