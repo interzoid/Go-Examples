@@ -63,7 +63,7 @@ func main() {
 	for value := range result {
 
 		// Prepare the query URL for the API call
-		url := "https://api.interzoid.com/getfullnamematch?license=bd56a36d8e1b25b31c50b0f8564e3833&fullname=" + url2.QueryEscape(result[value][0])
+		url := "https://api.interzoid.com/getfullnamematch?license=YOURAPIKEY&fullname=" + url2.QueryEscape(result[value][0])
 
 		// call the API
 		res, err := http.Get(url)
