@@ -4,11 +4,11 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetCompanyMatchSimkey.go** - generates a similarity key to use to match/locate other similar company names ("IBM" & "International Business Machines", etc.) - visit the API Page: https://www.interzoid.com/services/getcompanymatchadvanced  
 
-**GetCompanyNameMatchReport.go** - generates a report from a CSV file showing matching company/organization names within the file ("IBM" & "International Business Machines", etc.) - visit the API Page: https://www.interzoid.com/services/getcompanymatchadvanced
+**CompanyNameMatchReport.go** - generates a report from a CSV file showing matching company/organization names within the file ("IBM" & "International Business Machines", etc.) - visit the API Page: https://www.interzoid.com/services/getcompanymatchadvanced
   
 **GetFullNameMatchSimkey.go** - generates a similarity key to use to match/locate other similar individual names ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
-**GetFullNameMatchSimkey.go** - generates a report from a CSV file showing matching individual names within the file ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
+**FullNameMatchReport.go** - generates a report from a CSV file showing matching individual names within the file ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
 **GetCurrencyRate.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
 
