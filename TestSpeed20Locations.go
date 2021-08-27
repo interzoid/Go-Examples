@@ -30,7 +30,7 @@ func main() {
 	thePayload := Payload{}
 	loc := ""
 
-  // try each of the twenty locations
+  	// try each of the twenty locations
 	for i := 1; i <= 20; i++ {
 		switch i {
 		case 1:
