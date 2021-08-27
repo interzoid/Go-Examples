@@ -1,3 +1,4 @@
+// Get API key at www.interzoid.com/register 
 package main;
 
 import (
