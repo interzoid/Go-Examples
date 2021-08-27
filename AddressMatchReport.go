@@ -1,3 +1,5 @@
+// Get API key at www.interzoid.com/register 
+
 package main;
 // Obtains a similarity key from the Interzoid API for each record in the CSV file,
 // and then sorts them to line up records that share the same similarity key
