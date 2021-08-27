@@ -20,7 +20,7 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetPagePerformance.go** - Measures page load times or API call performance from one of 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
 
-**GetSpeed20Locations.go** - Measures page load times or API call performance from ALL 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
+**TestSpeed20Locations.go** - Measures page load times or API call performance from ALL 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
 
 **GetWeatherFromZip.go** - Retrieves temperature and other information about current weather conditions for a zip code - visit the API Page: https://www.interzoid.com/services/getweathercity
 
