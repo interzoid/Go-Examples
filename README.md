@@ -10,23 +10,37 @@ These are code examples showing how to call and utilize Interzoid's various Clou
   
 **GetFullNameMatchSimkey.go** - generates a similarity key to use to match/locate other similar individual names ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
+![FullNameMatch](images/FullNameMatchSimKeys.PNG)
+
 **FullNameMatchReport.go** - generates a report from a CSV file showing matching individual names within the file ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
 **AddressMatchReport.go** - generates a report from a CSV file showing matching individual addresses within the file ("100 East Main Street" & "100 E Main St.", etc.) - visit the API Page: https://www.interzoid.com/services/getaddressmatchadvanced
 
+![AddressMatch](images/AddressMatchSimKeys.PNG)
+
 **GetCurrencyRate.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+
+![CurrencyRate](images/CurrencyRate.PNG)
 
 **GetCryptoPrice.go** - Retrieves a real-time cryptocurrency price (BTC, ETH, ADA, BNB, etc.) - visit the API Page: https://www.interzoid.com/services/getcryptoprice 
 
-**GetEmailInformation.go** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo 
+**GetEmailInformation.go** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo
+
+![EmailInformation](images/EmailInformation.PNG)
 
 **GetGlobalPhoneInformation.go** - Retrieves geographic information, mobile, language and other demographics for a global telephone number - visit the API Page: https://www.interzoid.com/services/getglobalnumberinfo
 
+![GlobalPhone](images/GlobalPhone.PNG)
+
 **GetPagePerformance.go** - Measures page load times or API call performance from one of 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
+
+![GlobalPageLoad](images/GlobalPageLoad.PNG)
 
 **TestSpeed20Locations.go** - Measures page load times or API call performance from ALL 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
 
 **GetWeatherFromZip.go** - Retrieves temperature and other information about current weather conditions for a zip code - visit the API Page: https://www.interzoid.com/services/getweatherzip
+
+![Weather](images/Weather.PNG)
 
 
 To register for your free **API Key** (a block of free API credits), visit here: https://www.interzoid.com/register  
