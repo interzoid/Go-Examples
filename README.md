@@ -10,7 +10,7 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **FullNameMatchReport.go** - generates a report from a CSV file showing matching individual names within the file ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
-**AddressMatchReport.go** - generates a report from a CSV file showing matching individual names within the file ("100 East Main Street" & "100 E Main St.", etc.) - visit the API Page: https://www.interzoid.com/services/getaddressmatchadvanced
+**AddressMatchReport.go** - generates a report from a CSV file showing matching individual addresses within the file ("100 East Main Street" & "100 E Main St.", etc.) - visit the API Page: https://www.interzoid.com/services/getaddressmatchadvanced
 
 **GetCurrencyRate.go** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
 
