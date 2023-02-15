@@ -2,6 +2,16 @@
 
 These are code examples showing how to call and utilize Interzoid's various Cloud APIs using Go. Interzoid's APIs provide real-time data in several categories for integration into Web sites, applications, and business processes. There are also data matching and data validation APIs that can significantly improve the value of your data assets.
 
+Note: There are repositories with importable 'go get' packages available for the following APIs if an SDK is your preference:
+
+**Individual Name Match Scoring**: https://github.com/interzoid/fullnamematchscore-go
+
+**Individual Name Similarity Keys**: https://github.com/interzoid/fullnamesimkey-go
+
+**Company Name Similarity Keys**: https://github.com/interzoid/companynamesimkey-go
+
+**Street Address Similarity Keys**: https://github.com/interzoid/streetaddresssimkey-go
+
 To see this API in action via a Web application that quickly generates inconsistent/duplicate data reports while connected to major Cloud data platforms, visit here: https://connect.interzoid.com
 
 **GetCompanyMatchSimkey.go** - generates a similarity key to use to match/locate other similar company names ("IBM" & "International Business Machines", etc.) - visit the API Page: https://www.interzoid.com/services/getcompanymatchadvanced  
